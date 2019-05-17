@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libjSSC-2.8_ppc">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Desktop/Serial Library/java-simple-serial-connector-2.8.0/src/java/libs/mac_os_x/libjSSC-2.8_ppc.jnilib" />
+      <root url="file://$USER_HOME$/Desktop/Serial Library/rxtx-2.1-7-bins-r2/Mac_OS_X/librxtxSerial.jnilib" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
